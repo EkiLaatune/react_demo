@@ -27,7 +27,7 @@ function App() {
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more. HUUTISTA TÄTÄ ON MUOKATTU
       </p>
-      <div className="flex justify-center items-center h-screen">
+      <div className="justify-center items-center h-screen">
         <button className="btn btn-primary">Huutista</button>
       </div>
     </>
